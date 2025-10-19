@@ -1,0 +1,21 @@
+[ {
+  "Vehicle_ID" : "DRFT003",
+  "Team" : "ARC Racing",
+  "Model" : "Toyota Corolla AE86",
+  "Year" : 1986,
+  "Engine" : "1.6L 4A-GE Modified",
+  "Power_HP" : 220,
+  "Condition" : "READY",
+  "Race_Status" : "QUALIFIED",
+  "Tire_Width" : "245mm"
+}, {
+  "Vehicle_ID" : "DRFT020",
+  "Team" : "Garage 54",
+  "Model" : "Mazda RX-8",
+  "Year" : 2009,
+  "Engine" : "1.3L Rotary Turbo",
+  "Power_HP" : 480,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "255mm"
+} ]
