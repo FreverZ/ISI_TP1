@@ -1,0 +1,101 @@
+[ {
+  "Vehicle_ID" : "DRFT001",
+  "Team" : "Papadakis Racing",
+  "Model" : "Nissan 370Z",
+  "Year" : 2018,
+  "Engine" : "3.0L V6 Twin-Turbo",
+  "Power_HP" : 1000,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "285mm"
+}, {
+  "Vehicle_ID" : "DRFT004",
+  "Team" : "JDM Racing",
+  "Model" : "Nissan Skyline R32",
+  "Year" : 1990,
+  "Engine" : "2.6L RB26DETT",
+  "Power_HP" : 1000,
+  "Condition" : "READY",
+  "Race_Status" : "FINALIST",
+  "Tire_Width" : "295mm"
+}, {
+  "Vehicle_ID" : "DRFT012",
+  "Team" : "Hoonigan Racing",
+  "Model" : "Ford Mustang RTR",
+  "Year" : 2019,
+  "Engine" : "5.0L Coyote V8 Supercharged",
+  "Power_HP" : 950,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "305mm"
+}, {
+  "Vehicle_ID" : "DRFT013",
+  "Team" : "Daigo Saito Drift",
+  "Model" : "Lexus SC430",
+  "Year" : 2008,
+  "Engine" : "3.4L 2JZ-GTE Turbo",
+  "Power_HP" : 1000,
+  "Condition" : "READY",
+  "Race_Status" : "FINALIST",
+  "Tire_Width" : "295mm"
+}, {
+  "Vehicle_ID" : "DRFT016",
+  "Team" : "Team Falken",
+  "Model" : "Toyota Supra Mk4",
+  "Year" : 1998,
+  "Engine" : "3.0L 2JZ-GTE",
+  "Power_HP" : 900,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "295mm"
+}, {
+  "Vehicle_ID" : "DRFT026",
+  "Team" : "Top Secret Performance",
+  "Model" : "Toyota Supra Mk4",
+  "Year" : 2001,
+  "Engine" : "3.4L 2JZ-GTE",
+  "Power_HP" : 1000,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "295mm"
+}, {
+  "Vehicle_ID" : "DRFT029",
+  "Team" : "Team Monster Energy",
+  "Model" : "Ford Mustang GT",
+  "Year" : 2018,
+  "Engine" : "5.0L Supercharged V8",
+  "Power_HP" : 900,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "305mm"
+}, {
+  "Vehicle_ID" : "DRFT037",
+  "Team" : "Liberty Walk",
+  "Model" : "Lamborghini Huracán",
+  "Year" : 2017,
+  "Engine" : "5.2L V10 Twin-Turbo",
+  "Power_HP" : 1000,
+  "Condition" : "READY",
+  "Race_Status" : "EXHIBITION",
+  "Tire_Width" : "305mm"
+}, {
+  "Vehicle_ID" : "DRFT049",
+  "Team" : "Slide Factory",
+  "Model" : "Toyota Supra Mk4",
+  "Year" : 1997,
+  "Engine" : "3.0L 2JZ-GTE",
+  "Power_HP" : 880,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "295mm"
+}, {
+  "Vehicle_ID" : "DRFT050",
+  "Team" : "Drift Syndicate",
+  "Model" : "Nissan Skyline R34",
+  "Year" : 2001,
+  "Engine" : "2.6L RB26DETT",
+  "Power_HP" : 950,
+  "Condition" : "READY",
+  "Race_Status" : "FINALIST",
+  "Tire_Width" : "295mm"
+} ]

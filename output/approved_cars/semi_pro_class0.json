@@ -1,0 +1,271 @@
+[ {
+  "Vehicle_ID" : "DRFT006",
+  "Team" : "Team ENEOS",
+  "Model" : "Mazda RX-7 FD",
+  "Year" : 1997,
+  "Engine" : "1.3L Rotary Twin-Turbo",
+  "Power_HP" : 650,
+  "Condition" : "READY",
+  "Race_Status" : "QUALIFIED",
+  "Tire_Width" : "265mm"
+}, {
+  "Vehicle_ID" : "DRFT007",
+  "Team" : "Black Mamba",
+  "Model" : "Nissan 240SX S13",
+  "Year" : 1991,
+  "Engine" : "2.0L LS V8 Swap",
+  "Power_HP" : 800,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "285mm"
+}, {
+  "Vehicle_ID" : "DRFT008",
+  "Team" : "Williams Racing",
+  "Model" : "Honda S2000",
+  "Year" : 2004,
+  "Engine" : "2.2L F22C Turbo",
+  "Power_HP" : 550,
+  "Condition" : "READY",
+  "Race_Status" : "FINALIST",
+  "Tire_Width" : "265mm"
+}, {
+  "Vehicle_ID" : "DRFT010",
+  "Team" : "Real Street Performance",
+  "Model" : "BMW M3 E46",
+  "Year" : 2003,
+  "Engine" : "3.2L S54 Inline-6",
+  "Power_HP" : 600,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "275mm"
+}, {
+  "Vehicle_ID" : "DRFT011",
+  "Team" : "Team Orange",
+  "Model" : "Subaru BRZ",
+  "Year" : 2016,
+  "Engine" : "2.0L FA20 Turbo",
+  "Power_HP" : 580,
+  "Condition" : "READY",
+  "Race_Status" : "QUALIFIED",
+  "Tire_Width" : "265mm"
+}, {
+  "Vehicle_ID" : "DRFT015",
+  "Team" : "Garage D",
+  "Model" : "Nissan Silvia S13",
+  "Year" : 1992,
+  "Engine" : "2.0L SR20DET",
+  "Power_HP" : 520,
+  "Condition" : "READY",
+  "Race_Status" : "QUALIFIED",
+  "Tire_Width" : "265mm"
+}, {
+  "Vehicle_ID" : "DRFT018",
+  "Team" : "Turbo Works",
+  "Model" : "Nissan Laurel C33",
+  "Year" : 1991,
+  "Engine" : "2.5L RB25DET",
+  "Power_HP" : 550,
+  "Condition" : "READY",
+  "Race_Status" : "QUALIFIED",
+  "Tire_Width" : "275mm"
+}, {
+  "Vehicle_ID" : "DRFT019",
+  "Team" : "Sideways Crew",
+  "Model" : "Toyota Chaser JZX100",
+  "Year" : 1998,
+  "Engine" : "2.5L 1JZ-GTE",
+  "Power_HP" : 650,
+  "Condition" : "READY",
+  "Race_Status" : "FINALIST",
+  "Tire_Width" : "285mm"
+}, {
+  "Vehicle_ID" : "DRFT022",
+  "Team" : "Driftworks",
+  "Model" : "BMW E36",
+  "Year" : 1995,
+  "Engine" : "3.0L M50 Turbo",
+  "Power_HP" : 650,
+  "Condition" : "READY",
+  "Race_Status" : "QUALIFIED",
+  "Tire_Width" : "275mm"
+}, {
+  "Vehicle_ID" : "DRFT023",
+  "Team" : "Millen Motorsports",
+  "Model" : "Toyota Supra Mk5",
+  "Year" : 2020,
+  "Engine" : "3.0L B58 Turbo",
+  "Power_HP" : 750,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "285mm"
+}, {
+  "Vehicle_ID" : "DRFT024",
+  "Team" : "ProDrift UK",
+  "Model" : "Lexus IS200",
+  "Year" : 2003,
+  "Engine" : "3.0L 2JZ Swap",
+  "Power_HP" : 600,
+  "Condition" : "READY",
+  "Race_Status" : "FINALIST",
+  "Tire_Width" : "275mm"
+}, {
+  "Vehicle_ID" : "DRFT025",
+  "Team" : "DriftMafia",
+  "Model" : "Nissan S15",
+  "Year" : 2000,
+  "Engine" : "2.1L SR22DET",
+  "Power_HP" : 580,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "265mm"
+}, {
+  "Vehicle_ID" : "DRFT028",
+  "Team" : "Red Bull Drift",
+  "Model" : "BMW M4",
+  "Year" : 2020,
+  "Engine" : "3.0L Twin-Turbo Inline-6",
+  "Power_HP" : 750,
+  "Condition" : "READY",
+  "Race_Status" : "FINALIST",
+  "Tire_Width" : "285mm"
+}, {
+  "Vehicle_ID" : "DRFT030",
+  "Team" : "HKS Racing",
+  "Model" : "Nissan Silvia S15",
+  "Year" : 2001,
+  "Engine" : "2.2L SR22DET",
+  "Power_HP" : 700,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "275mm"
+}, {
+  "Vehicle_ID" : "DRFT032",
+  "Team" : "Midnight Club",
+  "Model" : "Toyota Mark II JZX100",
+  "Year" : 1999,
+  "Engine" : "2.5L 1JZ-GTE",
+  "Power_HP" : 620,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "275mm"
+}, {
+  "Vehicle_ID" : "DRFT033",
+  "Team" : "Rocket Bunny Racing",
+  "Model" : "Nissan 350Z",
+  "Year" : 2005,
+  "Engine" : "3.5L V6 Turbo",
+  "Power_HP" : 720,
+  "Condition" : "READY",
+  "Race_Status" : "QUALIFIED",
+  "Tire_Width" : "285mm"
+}, {
+  "Vehicle_ID" : "DRFT034",
+  "Team" : "Team Achilles",
+  "Model" : "Mazda RX-7 FC",
+  "Year" : 1991,
+  "Engine" : "1.3L Rotary Turbo",
+  "Power_HP" : 500,
+  "Condition" : "READY",
+  "Race_Status" : "FINALIST",
+  "Tire_Width" : "255mm"
+}, {
+  "Vehicle_ID" : "DRFT035",
+  "Team" : "Garage Drift King",
+  "Model" : "Nissan 180SX",
+  "Year" : 1995,
+  "Engine" : "LS3 V8 Swap",
+  "Power_HP" : 700,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "295mm"
+}, {
+  "Vehicle_ID" : "DRFT038",
+  "Team" : "Revolutions Racing",
+  "Model" : "BMW E30",
+  "Year" : 1988,
+  "Engine" : "2.5L M20 Turbo",
+  "Power_HP" : 500,
+  "Condition" : "READY",
+  "Race_Status" : "QUALIFIED",
+  "Tire_Width" : "265mm"
+}, {
+  "Vehicle_ID" : "DRFT040",
+  "Team" : "Smoky Garage",
+  "Model" : "Nissan Skyline R33",
+  "Year" : 1995,
+  "Engine" : "2.6L RB26DETT",
+  "Power_HP" : 800,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "285mm"
+}, {
+  "Vehicle_ID" : "DRFT041",
+  "Team" : "Team Apex",
+  "Model" : "BMW E46",
+  "Year" : 2004,
+  "Engine" : "3.2L S54 Turbo",
+  "Power_HP" : 700,
+  "Condition" : "READY",
+  "Race_Status" : "FINALIST",
+  "Tire_Width" : "275mm"
+}, {
+  "Vehicle_ID" : "DRFT042",
+  "Team" : "Boosted Brothers",
+  "Model" : "Toyota Supra Mk5",
+  "Year" : 2021,
+  "Engine" : "3.0L B58 Turbo",
+  "Power_HP" : 780,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "285mm"
+}, {
+  "Vehicle_ID" : "DRFT043",
+  "Team" : "Okubo Drift",
+  "Model" : "Toyota Chaser JZX90",
+  "Year" : 1993,
+  "Engine" : "2.5L 1JZ-GTE",
+  "Power_HP" : 600,
+  "Condition" : "READY",
+  "Race_Status" : "QUALIFIED",
+  "Tire_Width" : "275mm"
+}, {
+  "Vehicle_ID" : "DRFT044",
+  "Team" : "Garage Kubo",
+  "Model" : "Nissan Silvia S13",
+  "Year" : 1990,
+  "Engine" : "2.1L SR22DET",
+  "Power_HP" : 580,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "265mm"
+}, {
+  "Vehicle_ID" : "DRFT045",
+  "Team" : "Drift Empire",
+  "Model" : "Mazda RX-7 FD",
+  "Year" : 1999,
+  "Engine" : "1.3L Rotary Turbo",
+  "Power_HP" : 620,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "265mm"
+}, {
+  "Vehicle_ID" : "DRFT046",
+  "Team" : "Team Infinity",
+  "Model" : "Infiniti G35",
+  "Year" : 2006,
+  "Engine" : "3.5L V6 Turbo",
+  "Power_HP" : 650,
+  "Condition" : "READY",
+  "Race_Status" : "FINALIST",
+  "Tire_Width" : "285mm"
+}, {
+  "Vehicle_ID" : "DRFT048",
+  "Team" : "Reaper Performance",
+  "Model" : "Nissan Silvia S14",
+  "Year" : 1998,
+  "Engine" : "2.2L SR22DET",
+  "Power_HP" : 610,
+  "Condition" : "READY",
+  "Race_Status" : "COMPETING",
+  "Tire_Width" : "265mm"
+} ]

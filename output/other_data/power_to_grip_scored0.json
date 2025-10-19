@@ -1,0 +1,151 @@
+[ {
+  "Vehicle_ID" : "DRFT003",
+  "PG_Score" : 3.1818181818181817
+}, {
+  "Vehicle_ID" : "DRFT002",
+  "PG_Score" : 1.6825396825396823
+}, {
+  "Vehicle_ID" : "DRFT005",
+  "PG_Score" : 1.5714285714285714
+}, {
+  "Vehicle_ID" : "DRFT009",
+  "PG_Score" : 1.5178571428571428
+}, {
+  "Vehicle_ID" : "DRFT020",
+  "PG_Score" : 1.5178571428571428
+}, {
+  "Vehicle_ID" : "DRFT038",
+  "PG_Score" : 1.5142857142857142
+}, {
+  "Vehicle_ID" : "DRFT034",
+  "PG_Score" : 1.457142857142857
+}, {
+  "Vehicle_ID" : "DRFT015",
+  "PG_Score" : 1.456043956043956
+}, {
+  "Vehicle_ID" : "DRFT021",
+  "PG_Score" : 1.456043956043956
+}, {
+  "Vehicle_ID" : "DRFT018",
+  "PG_Score" : 1.4285714285714284
+}, {
+  "Vehicle_ID" : "DRFT008",
+  "PG_Score" : 1.3766233766233764
+}, {
+  "Vehicle_ID" : "DRFT039",
+  "PG_Score" : 1.3766233766233764
+}, {
+  "Vehicle_ID" : "DRFT036",
+  "PG_Score" : 1.354679802955665
+}, {
+  "Vehicle_ID" : "DRFT010",
+  "PG_Score" : 1.3095238095238095
+}, {
+  "Vehicle_ID" : "DRFT024",
+  "PG_Score" : 1.3095238095238095
+}, {
+  "Vehicle_ID" : "DRFT027",
+  "PG_Score" : 1.3095238095238095
+}, {
+  "Vehicle_ID" : "DRFT043",
+  "PG_Score" : 1.3095238095238095
+}, {
+  "Vehicle_ID" : "DRFT011",
+  "PG_Score" : 1.3054187192118227
+}, {
+  "Vehicle_ID" : "DRFT025",
+  "PG_Score" : 1.3054187192118227
+}, {
+  "Vehicle_ID" : "DRFT044",
+  "PG_Score" : 1.3054187192118227
+}, {
+  "Vehicle_ID" : "DRFT032",
+  "PG_Score" : 1.2672811059907834
+}, {
+  "Vehicle_ID" : "DRFT031",
+  "PG_Score" : 1.2619047619047619
+}, {
+  "Vehicle_ID" : "DRFT019",
+  "PG_Score" : 1.2527472527472527
+}, {
+  "Vehicle_ID" : "DRFT046",
+  "PG_Score" : 1.2527472527472527
+}, {
+  "Vehicle_ID" : "DRFT047",
+  "PG_Score" : 1.2471655328798186
+}, {
+  "Vehicle_ID" : "DRFT048",
+  "PG_Score" : 1.2412177985948478
+}, {
+  "Vehicle_ID" : "DRFT045",
+  "PG_Score" : 1.2211981566820276
+}, {
+  "Vehicle_ID" : "DRFT022",
+  "PG_Score" : 1.2087912087912087
+}, {
+  "Vehicle_ID" : "DRFT035",
+  "PG_Score" : 1.2040816326530612
+}, {
+  "Vehicle_ID" : "DRFT006",
+  "PG_Score" : 1.1648351648351647
+}, {
+  "Vehicle_ID" : "DRFT017",
+  "PG_Score" : 1.163265306122449
+}, {
+  "Vehicle_ID" : "DRFT033",
+  "PG_Score" : 1.130952380952381
+}, {
+  "Vehicle_ID" : "DRFT030",
+  "PG_Score" : 1.1224489795918369
+}, {
+  "Vehicle_ID" : "DRFT041",
+  "PG_Score" : 1.1224489795918369
+}, {
+  "Vehicle_ID" : "DRFT014",
+  "PG_Score" : 1.0912698412698414
+}, {
+  "Vehicle_ID" : "DRFT023",
+  "PG_Score" : 1.0857142857142856
+}, {
+  "Vehicle_ID" : "DRFT028",
+  "PG_Score" : 1.0857142857142856
+}, {
+  "Vehicle_ID" : "DRFT042",
+  "PG_Score" : 1.043956043956044
+}, {
+  "Vehicle_ID" : "DRFT007",
+  "PG_Score" : 1.0178571428571428
+}, {
+  "Vehicle_ID" : "DRFT040",
+  "PG_Score" : 1.0178571428571428
+}, {
+  "Vehicle_ID" : "DRFT029",
+  "PG_Score" : 0.9682539682539683
+}, {
+  "Vehicle_ID" : "DRFT049",
+  "PG_Score" : 0.9577922077922078
+}, {
+  "Vehicle_ID" : "DRFT016",
+  "PG_Score" : 0.9365079365079365
+}, {
+  "Vehicle_ID" : "DRFT012",
+  "PG_Score" : 0.9172932330827068
+}, {
+  "Vehicle_ID" : "DRFT050",
+  "PG_Score" : 0.887218045112782
+}, {
+  "Vehicle_ID" : "DRFT037",
+  "PG_Score" : 0.8714285714285714
+}, {
+  "Vehicle_ID" : "DRFT004",
+  "PG_Score" : 0.8428571428571429
+}, {
+  "Vehicle_ID" : "DRFT013",
+  "PG_Score" : 0.8428571428571429
+}, {
+  "Vehicle_ID" : "DRFT026",
+  "PG_Score" : 0.8428571428571429
+}, {
+  "Vehicle_ID" : "DRFT001",
+  "PG_Score" : 0.8142857142857143
+} ]
