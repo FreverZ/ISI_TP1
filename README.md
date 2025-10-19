@@ -104,7 +104,7 @@ Replicar um cenário real onde um departamento técnico/operacional recolhe dado
 ## 6. Conclusão
 O workflow em KNIME demonstrou a viabilidade de construir um pipeline ETL robusto e repetível para dados de carros de drift. O processo cobre a leitura de ficheiros Excel, limpeza, validação, segmentação, cálculo de métricas, escrita em vários formatos, organização de ficheiros, compressão e envio por email, mantendo registos (logs) para auditoria.
 
-**Trabalhos futuros / melhorias propostas:**
+**Trabalhos futuros / melhorias possíveis:**
 - Integração com APIs externas;
 - Dashboard interativo (ex.: conectar os resultados a um painel em Grafana/Power BI/Tableau ou usar KNIME WebPortal);
 - Testes unitários para as regras de transformação e pipelines (ex.: validar outputs esperados para ficheiros de input de teste);
